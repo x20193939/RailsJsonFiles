@@ -1,0 +1,20 @@
+{
+  "catagories":
+      {
+        "preschoolStoryBooks":
+          {
+            "daily": "30 minutes",
+            "weekly": "120 minutes",
+            "maximium": 130 minutes"
+          }.
+          
+        "afterSchool":
+         {
+            "daily": "20 minutes",
+            "weekly": "100 minutes",
+            "maximium": 120 minutes"
+         }. 
+         
+      }
+      
+}      
